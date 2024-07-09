@@ -1,0 +1,24 @@
+{
+  "name": "pterodactyl-graph-ram-usage",
+  "version": "1.0.0",
+  "description": "Create an image with your RAM utilisation in a Pterodactyl VPS in MB.",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "chart.js": "^4.4.3",
+    "dotenv": "^16.4.5"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Speeckby/Pterodactyl-graph-ram-usage.git"
+  },
+  "author": "Speeckby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Speeckby/Pterodactyl-graph-ram-usage/issues"
+  },
+  "homepage": "https://github.com/Speeckby/Pterodactyl-graph-ram-usage#readme"
+}
