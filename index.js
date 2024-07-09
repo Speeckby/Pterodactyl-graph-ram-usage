@@ -128,6 +128,9 @@ setInterval(() => {
         const out = fs.createWriteStream(__dirname + '/output.png');
         const stream = canvas.createPNGStream();
         stream.pipe(out);
+        out.on('finish', () => {
+            console.log('The PNG file has been updated.');
+        });
 
         fs.writeFileSync('stats.json', JSON.stringify(stats, null, 4), 'utf8', (err) => {
             if (err) {

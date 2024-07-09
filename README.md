@@ -5,7 +5,8 @@ Create an image with your RAM utilisation in a Pterodactyl VPS in MB. Example :
 ## How to use it ?
 ### Step 1 : Install the program 
 
-Go to `Releases` and install the .zip.
+Go to `Releases` and install the .zip.\
+After decompress the .zip, install the dependencies with the command `npm i`.
 
 ### Step 2 : Fill the .env file
 
