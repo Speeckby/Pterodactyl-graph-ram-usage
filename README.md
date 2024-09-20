@@ -32,11 +32,3 @@ The image will be created with an analysis of RAM usage every minute.
 ![](/img/click.png "Click value.")
 **Step 4 :** Locate the second `Set-Cookie` and copy/paste the `pterodactyl_session` value
 ![](/img/cookie.png "Cookie value.")
-
-### Can you add ... ?
-
-Maybe, ask me on the [discord server](https://discord.gg/FMc6yMBXXX). 
-
-### Other questions 
-
-If you have other questions, ask them on the [discord server](https://discord.gg/FMc6yMBXXX).
