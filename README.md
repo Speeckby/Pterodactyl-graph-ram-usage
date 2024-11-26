@@ -29,6 +29,6 @@ The image will be created with an analysis of RAM usage every minute.
 **Step 1 :** Go to your VPS and log in to your account\
 **Step 2 :** Press `Ctrl + Shift + I` and go in Network category\
 **Step 3 :** Press `Ctrl + R` and click on the first web request\
-![](/img/click.png "Click value.")
+![](/img/click.png "Click value.")\
 **Step 4 :** Locate the second `Set-Cookie` and copy/paste the `pterodactyl_session` value
 ![](/img/cookie.png "Cookie value.")
